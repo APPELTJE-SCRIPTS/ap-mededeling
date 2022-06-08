@@ -1,6 +1,6 @@
 
 author 'FL45H#5053'
-description 'sn-mededeling - stuur een mededeling naar iedereen in je server'
+description 'sn-mededeling - stuur een mededeling naar iedereen in je server via een command'
 
 client_scripts {
    'client.lua'
